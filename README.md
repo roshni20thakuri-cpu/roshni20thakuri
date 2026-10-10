@@ -39,7 +39,7 @@ Certifications & Education
 - Bachelor’s degree in Cybersecurity — Northeastern Illinois University, in progress
 Connect With Me
 I’m interested in SOC Analyst and Cybersecurity Analyst opportunities where I can contribute my IT support experience and grow in security operations.
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Professional Email]
+- LinkedIn: www.linkedin.com/in/roshani-thapa-a2b448293
+- Email: roshni20thakuri@gmail.com
 - Location: Illinois, USA
 
