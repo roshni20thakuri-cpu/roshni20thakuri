@@ -1,4 +1,4 @@
-Hi, I'm Roshani Thapa 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=32&amp;duration=2500&amp;pause=2000&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=70&amp;lines=Hi%2C+I%27m+Roshani+Thapa+%F0%9F%91%8B" alt="Hi, I'm Roshani Thapa 👋" />
 </p>
