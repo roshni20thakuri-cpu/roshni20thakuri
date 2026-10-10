@@ -1,4 +1,4 @@
-Hi, I'm [Your Name] 👋
+Hi, I'm Roshani Thapa 👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=60&amp;lines=IT+Support+Specialist;Building+a+Career+in+Security+Operations;Identity+%7C+Endpoint+Security+%7C+Log+Analysis" alt="Animated headline: IT Support Specialist. Building a Career in Security Operations. Identity, Endpoint Security, and Log Analysis." />
 </p>
