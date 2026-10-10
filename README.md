@@ -1,114 +1,45 @@
-<div align="center">
+Hi, I'm [Your Name] 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1200&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=60&amp;lines=IT+Support+Specialist;Building+a+Career+in+Security+Operations;Identity+%7C+Endpoint+Security+%7C+Log+Analysis" alt="Animated headline: IT Support Specialist. Building a Career in Security Operations. Identity, Endpoint Security, and Log Analysis." />
+</p>
 
-# Hi, I'm Roshani Thapa 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-B91C1C?style=for-the-badge" alt="CompTIA Security+ Certified" />
+  <img src="https://img.shields.io/badge/Microsoft-MD--102-2563EB?style=for-the-badge" alt="Microsoft MD-102 Certified" />
+  <img src="https://img.shields.io/badge/NEIU-Cybersecurity_Student-14532D?style=for-the-badge" alt="NEIU Cybersecurity Student" />
+</p>
 
-### Aspiring SOC Analyst | Cybersecurity Analyst | Threat Detection & Security Monitoring
+IT Support Specialist | CompTIA Security+ | Microsoft Certified Endpoint Administrator
+Cybersecurity student at Northeastern Illinois University · Pursuing SOC Analyst opportunities
+About Me
+I’m an IT Support Specialist building a career in security operations, threat investigation, and endpoint security. I bring practical workplace experience with Microsoft Entra ID, Azure, Active Directory, and Intune, supported by Security+ and Microsoft endpoint administration certifications.
+Alongside my bachelor’s studies in Cybersecurity at Northeastern Illinois University (NEIU), I’m developing investigation skills through Splunk, Windows security logs, and phishing email analysis. I’m expanding my experience with Microsoft platforms from IT support into identity security, access controls, and endpoint monitoring.
+My goal is to turn technical evidence into clear findings and practical recommendations.
+Security Portfolio
+My portfolio is in development around the following investigations and labs:
+Project Focus	Investigation & Documentation
+Windows Authentication & Brute-Force Analysis	Analyze suspicious login patterns using Splunk and Windows logs; document queries, timestamps, findings, and evidence gaps.
+Phishing Email Analysis	Examine sender details, email headers, suspicious links, and social engineering indicators; communicate the assessment in a structured report.
+Windows-to-Splunk Log Collection	Configure Splunk Universal Forwarder, validate log ingestion, and document troubleshooting and monitoring visibility.
 
-**Turning security logs into actionable investigations.**
 
-Hands-on cybersecurity learner building practical experience in SIEM monitoring, Windows event analysis, network reconnaissance, and incident documentation.
+Technical Toolkit
+Area	Tools & Technologies
+Workplace IT Support	Microsoft Entra ID, Azure, Active Directory, Intune
+Security Monitoring & Labs	Splunk, Splunk Universal Forwarder, Windows Event Viewer
+Endpoint Protection	Microsoft Defender
+Network Investigation	Nmap, Kali Linux
+Lab Environments	Windows, Linux, VMware, VirtualBox
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-</div>
+Current security focus: authentication analysis, identity and access controls, endpoint security, phishing investigations, and incident reporting.
+Certifications & Education
+- CompTIA Security+ (SY0-701) — Certified
+- Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)
+- Bachelor’s degree in Cybersecurity — Northeastern Illinois University, in progress
+Connect With Me
+I’m interested in SOC Analyst and Cybersecurity Analyst opportunities where I can contribute my IT support experience and grow in security operations.
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Professional Email]
+- Location: Illinois, USA
 
----
-
-## 👨‍💻 About Me
-
-I'm focused on developing the practical skills needed to investigate suspicious activity, analyze security telemetry, and support security operations. My lab work includes configuring log forwarding, examining Windows authentication events, and testing network connectivity and exposure in virtual environments.
-
-- 🔎 **Focus areas:** Security monitoring, log analysis, threat detection, and incident investigation
-- 🧪 **Hands-on labs:** Splunk, Microsoft Defender, Windows, Kali Linux, virtual machines, and Nmap
-- 📚 **Currently learning:** Advanced SPL, MITRE ATT&CK mapping, alert triage, and incident response workflows
-- 🎯 **Career goal:** Entry-level SOC Analyst / Cybersecurity Analyst
-
-## 🛠️ Technical Skills
-
-| Area | Tools & Concepts |
-| --- | --- |
-| **SIEM & Log Analysis** | Splunk, Splunk Universal Forwarder, Windows Event Viewer, authentication event analysis |
-| **Security Operations** | Alert triage fundamentals, suspicious login investigation, evidence collection, incident reporting |
-| **Networking** | TCP/IP, SSH, RDP, port states, network scanning |
-| **Endpoint Security** | Microsoft Defender (endpoint protection and security monitoring) |
-| **Security Tools** | Nmap, Kali Linux, Wireshark (learning) |
-| **Systems & Labs** | Windows 11, Linux, VMware / virtual machines |
-| **Developing Skills** | Splunk SPL, MITRE ATT&CK, detection engineering fundamentals |
-
-## 🏅 Certifications
-
-- **CompTIA Security+ (SY0-701)** — [Add credential verification link, if available]
-
-## 🚀 Featured Projects
-
-### 1. 🔐 Windows Brute-Force Investigation with Splunk
-
-**Goal:** Investigate repeated authentication activity and distinguish suspicious login patterns from normal system events.
-
-- Built a virtual Windows and Kali Linux lab for controlled security testing.
-- Configured Windows event collection using Splunk Universal Forwarder.
-- Examined authentication-related events and investigated event IDs, timestamps, and login context.
-- Practiced documenting findings and supporting conclusions with log evidence.
-
-**Tools:** Splunk · Windows Event Viewer · Kali Linux · Virtualization
-
-📁 **[View project repository](https://github.com/YOUR-USERNAME/windows-brute-force-investigation)**
-
-> Suggested evidence to include: lab diagram, sanitized event screenshots, SPL searches, investigation timeline, and a short findings report. Distinguish confirmed failed logons from other event types.
-
-### 2. 🌐 Network Reconnaissance & Port Analysis
-
-**Goal:** Identify exposed services and interpret scan results in an authorized lab environment.
-
-- Used Nmap to examine network ports and service availability.
-- Compared open, closed, and filtered port states.
-- Explored RDP and SSH connectivity and related firewall behavior.
-- Recorded troubleshooting steps and observations.
-
-**Tools:** Nmap · Kali Linux · Windows · TCP/IP
-
-📁 **[View project repository](https://github.com/YOUR-USERNAME/network-port-analysis)**
-
-### 3. 📊 Windows Log Forwarding to Splunk
-
-**Goal:** Centralize Windows security telemetry for investigation.
-
-- Configured Splunk Universal Forwarder in a Windows virtual environment.
-- Worked with Splunk receiving configuration and log ingestion troubleshooting.
-- Investigated connectivity, indexing, and event visibility issues.
-- Practiced validating data flow before beginning analysis.
-
-**Tools:** Splunk · Universal Forwarder · Windows · Linux
-
-📁 **[View project repository](https://github.com/YOUR-USERNAME/windows-splunk-log-forwarding)**
-
-## 🧭 My Investigation Workflow
-
-```text
-Collect Logs → Validate Data → Identify Suspicious Activity
-       → Investigate Context → Document Evidence → Recommend Next Steps
-```
-
-## 📈 What I'm Working On
-
-- Writing reusable Splunk SPL queries for authentication monitoring
-- Improving incident reports with clear evidence and timelines
-- Learning how to map observed techniques to MITRE ATT&CK
-- Practicing SOC alert triage in safe, isolated labs
-
-## 📬 Let's Connect
-
-I'm interested in opportunities where I can grow as a **SOC Analyst or Cybersecurity Analyst** and contribute to a security-focused team.
-
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-PROFILE/
-- **Email:** YOUR_EMAIL@example.com
-- **GitHub:** https://github.com/YOUR-USERNAME
-
----
-
-<div align="center">
-
-*Curiosity • Evidence-driven investigation • Continuous improvement*
-
-</div>
